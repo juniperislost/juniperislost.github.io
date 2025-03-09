@@ -1,0 +1,46 @@
+* {
+  background-color: #0e0e0e;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+section {
+  margin: 30px auto;
+  max-width: 900px;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 1.2em;
+  text-align: left;
+}
+
+body {
+  margin-bottom: 50px;
+}
